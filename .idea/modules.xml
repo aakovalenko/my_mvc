@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../etm_old/.idea/etm_old.iml" filepath="$PROJECT_DIR$/../etm_old/.idea/etm_old.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iron_horse_helper/.idea/iron_horse_helper.iml" filepath="$PROJECT_DIR$/../iron_horse_helper/.idea/iron_horse_helper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test.iml" filepath="$PROJECT_DIR$/.idea/test.iml" />
+    </modules>
+  </component>
+</project>
