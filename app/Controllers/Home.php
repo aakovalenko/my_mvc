@@ -8,12 +8,24 @@
 
 namespace app\controllers;
 
+use Core\Controller;
 
-class Home
+
+class Home extends Controller
 {
-    public function index()
+    public function indexAction()
     {
         echo 'Hello from the index action in the Home controller';
+    }
+
+    protected function before()
+    {
+        echo "(before) ";
+    }
+
+    protected function after()
+    {
+        echo "(after)"; 
     }
 
 }
